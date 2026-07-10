@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 import './App.css';
 
-const API_BASE = 'https://new-ps-1.onrender.com';
+const API_BASE = 'https://new-ps-1.onrender.com/api';
 // Simple format helper for dates
 const formatDateTime = (isoString) => {
   if (!isoString) return '';
