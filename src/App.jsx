@@ -176,7 +176,7 @@ function App() {
       {/* Header */}
       <header className="app-header">
         <div className="brand-section">
-          <h1 className="brand-logo">Antigravity <span>Parking</span></h1>
+          <h1 className="brand-logo">ParkWise <span>Parking</span></h1>
         </div>
         <div className="status-badge">
           <div className="status-dot"></div>
